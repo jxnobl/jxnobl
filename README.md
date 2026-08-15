@@ -257,35 +257,35 @@ where software interacts with the physical world.
 
 <h2>🌐 Connect With Me</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
-        <img
-          src="https://skillicons.dev/icons?i=linkedin"
-          width="50"
-          height="50"
-          alt="LinkedIn"
-        />
-        <br>
-        <sub><strong>LinkedIn</strong></sub>
-      </a>
-    </td>
+<p align="center">
+  <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="52"
+      height="52"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:oabel.edmarc@gmail.com">
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      width="52"
+      height="52"
+      alt="Email"
+    />
+  </a>
+</p>
 
-    <td align="center" width="150">
-      <a href="mailto:oabel.edmarc@gmail.com">
-        <img
-          src="https://skillicons.dev/icons?i=gmail"
-          width="50"
-          height="50"
-          alt="Email"
-        />
-        <br>
-        <sub><strong>Email</strong></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
+    LinkedIn
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:oabel.edmarc@gmail.com">
+    Email
+  </a>
+</p>
 
 <p align="center">
   <sub>oabel.edmarc@gmail.com</sub>
@@ -293,6 +293,21 @@ where software interacts with the physical world.
 
 <br>
 
+<!-- ====================================================== -->
+<!--                        FOOTER                         -->
+<!-- ====================================================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=0:2563EB,50:172554,100:0D1117&section=footer&animation=fadeIn"
+    width="92%"
+    alt="Footer"
+  />
+</p>
+
+<p align="center">
+  <em>Building technology one project at a time.</em>
+</p>
 <!-- ====================================================== -->
 <!--                        FOOTER                         -->
 <!-- ====================================================== -->
