@@ -308,18 +308,3 @@ where software interacts with the physical world.
 <p align="center">
   <em>Building technology one project at a time.</em>
 </p>
-<!-- ====================================================== -->
-<!--                        FOOTER                         -->
-<!-- ====================================================== -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=0:2563EB,50:172554,100:0D1117&section=footer&animation=fadeIn"
-    width="92%"
-    alt="Footer"
-  />
-</p>
-
-<p align="center">
-  <em>Building technology one project at a time.</em>
-</p>
