@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Edmarc Justin C. Oabel
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=BS+Computer+Engineering+Student;Embedded+Systems+Specialization;Hardware+%2B+Software+Enthusiast;Building+%26+Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=BS+Computer+Engineering+Student;Embedded+Systems+Specialization;Hardware+%2B+Software+Enthusiast;Building+%26+Learning+Every+Day" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -65,32 +65,17 @@ I enjoy turning ideas into working systems and learning through hands-on project
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jxnobl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxnobl&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
 ## 🐍 Contribution Activity
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/jxnobl/jxnobl/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/jxnobl/jxnobl/output/github-snake.svg"
-  />
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/jxnobl/jxnobl/output/github-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
-</picture>
+</p>
+
+---
 
 ## 🎯 Currently Learning
 
