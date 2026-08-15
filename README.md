@@ -1,43 +1,67 @@
+<!-- ╭──────────────────────────────────────────────────────────────╮ -->
+<!--                         HEADER                                 -->
+<!-- ╰──────────────────────────────────────────────────────────────╯ -->
+
 <p align="center">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Hi%2C+I'm+Edmarc+Justin+C.+Oabel+%F0%9F%91%8B;BS+Computer+Engineering+Student;Embedded+Systems+Specialization" alt="Typing Introduction" />
-  <br>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rounded&height=230&color=0:0D1117,45:172554,100:2563EB&text=Edmarc%20Justin%20C.%20Oabel&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=BS%20Computer%20Engineering%20%7C%20Embedded%20Systems&descAlignY=61&descSize=17&stroke=58A6FF&strokeWidth=1&animation=fadeIn"
+    width="92%"
+  />
 </p>
 
 <p align="center">
-  <b>Mapúa University · 2024–Present</b>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Building+with+Hardware+%2B+Software;ESP32+%7C+ESP-IDF+%7C+FreeRTOS;Embedded+Systems+Enthusiast;Learning+%26+Building+Every+Day"
+    alt="Typing Introduction"
+  />
+</p>
+
+<p align="center">
+  🎓 <b>Mapúa University</b> · 2024–Present
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="38" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:oabel.edmarc@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="42" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="38" />
   </a>
 </p>
 
 <br>
 
+<!-- ABOUT -->
+
 ## 👋 About Me
 
-I'm **Edmarc Justin C. Oabel**, a **BS Computer Engineering student at Mapúa University**, currently studying from **2024–Present**, specializing in **Embedded Systems**.
+I'm **Edmarc Justin C. Oabel**, a **BS Computer Engineering student at Mapúa University**, currently pursuing my degree from **2024–Present**, with a specialization in **Embedded Systems**.
 
 I'm interested in the intersection of **hardware and software**, particularly in microcontrollers, electronics, embedded programming, automation, and connected systems.
 
-I enjoy learning through hands-on experimentation and building projects that turn software into something that interacts with the physical world.
+I enjoy learning through hands-on experimentation and building systems where software interacts with the physical world.
 
 <br>
+
+<!-- EDUCATION -->
 
 ## 🎓 Education
 
-**Mapúa University**
+<p align="center">
 
-BS Computer Engineering · **2024–Present**
-Specialization · **Embedded Systems**
+### Mapúa University
+
+**BS Computer Engineering**  
+2024 – Present
+
+`Specialization: Embedded Systems`
+
+</p>
 
 <br>
+
+<!-- EMBEDDED -->
 
 ## 🔌 Embedded Systems
 
@@ -46,14 +70,27 @@ Specialization · **Embedded Systems**
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=espressif&perline=6" />
+  <b>ESP32</b>
+  &nbsp; · &nbsp;
+  <b>ESP-IDF</b>
+  &nbsp; · &nbsp;
+  <b>FreeRTOS</b>
+  &nbsp; · &nbsp;
+  <b>Arduino</b>
+  &nbsp; · &nbsp;
+  <b>C++</b>
 </p>
 
 <p align="center">
-  <b>ESP32</b> · <b>ESP-IDF</b> · <b>FreeRTOS</b> · <b>Arduino</b> · <b>C++</b>
+  <i>
+    Developing and debugging embedded systems, working with microcontrollers,
+    real-time tasks, electronics, and hardware-software integration.
+  </i>
 </p>
 
 <br>
+
+<!-- SOFTWARE -->
 
 ## 💻 Software & Web
 
@@ -62,10 +99,22 @@ Specialization · **Embedded Systems**
 </p>
 
 <p align="center">
-  <b>Python</b> · <b>JavaScript</b> · <b>TypeScript</b> · <b>React</b> · <b>Next.js</b> · <b>Tailwind CSS</b>
+  <b>Python</b>
+  &nbsp; · &nbsp;
+  <b>JavaScript</b>
+  &nbsp; · &nbsp;
+  <b>TypeScript</b>
+  &nbsp; · &nbsp;
+  <b>React</b>
+  &nbsp; · &nbsp;
+  <b>Next.js</b>
+  &nbsp; · &nbsp;
+  <b>Tailwind CSS</b>
 </p>
 
 <br>
+
+<!-- TOOLS -->
 
 ## 🧰 Development Tools
 
@@ -74,10 +123,20 @@ Specialization · **Embedded Systems**
 </p>
 
 <p align="center">
-  <b>Git</b> · <b>GitHub</b> · <b>VS Code</b> · <b>Arduino IDE</b> · <b>Espressif IDE</b>
+  <b>Git</b>
+  &nbsp; · &nbsp;
+  <b>GitHub</b>
+  &nbsp; · &nbsp;
+  <b>VS Code</b>
+  &nbsp; · &nbsp;
+  <b>Arduino IDE</b>
+  &nbsp; · &nbsp;
+  <b>Espressif IDE</b>
 </p>
 
 <br>
+
+<!-- INTERESTS -->
 
 ## ⚙️ Areas of Interest
 
@@ -99,55 +158,85 @@ Specialization · **Embedded Systems**
 
 <br>
 
+<!-- LEARNING -->
+
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,arduino,python&perline=6" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Embedded+Systems;ESP-IDF;FreeRTOS;Microcontroller+Programming;Electronics;IoT+Development"
+    alt="Currently Learning"
+  />
 </p>
 
 <p align="center">
-  <i>Deepening my knowledge of embedded systems, ESP-IDF, FreeRTOS, electronics, and software development.</i>
+  <i>
+    Continuously improving my knowledge through experimentation,
+    projects, and hands-on development.
+  </i>
 </p>
 
 <br>
+
+<!-- APPROACH -->
 
 ## 🚀 My Approach
 
 <p align="center">
   <b>Learn</b>
-  &nbsp;→&nbsp;
+  &nbsp; → &nbsp;
   <b>Build</b>
-  &nbsp;→&nbsp;
+  &nbsp; → &nbsp;
   <b>Break</b>
-  &nbsp;→&nbsp;
+  &nbsp; → &nbsp;
   <b>Understand</b>
-  &nbsp;→&nbsp;
+  &nbsp; → &nbsp;
   <b>Improve</b>
 </p>
 
 <p align="center">
-  <i>I learn best by building, experimenting, and solving problems along the way.</i>
+  <i>
+    I learn best by building things, experimenting, making mistakes,
+    and understanding how to solve the problems along the way.
+  </i>
 </p>
 
 <br>
+
+<!-- CONNECT -->
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:oabel.edmarc@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
-  </a>
+
+<a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:oabel.edmarc@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+</a>
+
 </p>
 
 <p align="center">
-  <sub>Thanks for visiting my profile.</sub>
+  <sub>
+    📧 oabel.edmarc@gmail.com
+  </sub>
 </p>
 
 <br>
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=0:2563EB,50:172554,100:0D1117&section=footer&animation=fadeIn"
+    width="92%"
+  />
+</p>
 
 <p align="center">
   <i>Building technology one project at a time.</i>
