@@ -21,30 +21,6 @@
   🎓 <strong>Mapúa University</strong> · 2024–Present
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
-    <img
-      src="https://skillicons.dev/icons?i=linkedin"
-      width="40"
-      height="40"
-      alt="LinkedIn"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:oabel.edmarc@gmail.com">
-    <img
-      src="https://skillicons.dev/icons?i=gmail"
-      width="40"
-      height="40"
-      alt="Email"
-    />
-  </a>
-</p>
-
-<br>
-
 <!-- ====================================================== -->
 <!--                       ABOUT ME                         -->
 <!-- ====================================================== -->
