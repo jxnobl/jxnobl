@@ -30,7 +30,9 @@
       alt="LinkedIn"
     />
   </a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:oabel.edmarc@gmail.com">
     <img
       src="https://skillicons.dev/icons?i=gmail"
@@ -74,6 +76,14 @@ where software interacts with the physical world.
 <!-- ====================================================== -->
 
 <h2>🎓 Education</h2>
+
+<p align="center">
+  <img
+    src="./assets/mapua-logo.png"
+    width="90"
+    alt="Mapúa University Logo"
+  />
+</p>
 
 <p align="center">
   <strong>Mapúa University</strong>
@@ -266,7 +276,9 @@ where software interacts with the physical world.
       alt="LinkedIn"
     />
   </a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:oabel.edmarc@gmail.com">
     <img
       src="https://skillicons.dev/icons?i=gmail"
@@ -281,7 +293,7 @@ where software interacts with the physical world.
   <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
     LinkedIn
   </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp;&nbsp; • &nbsp;&nbsp;
   <a href="mailto:oabel.edmarc@gmail.com">
     Email
   </a>
