@@ -1,11 +1,12 @@
-<!-- ╭──────────────────────────────────────────────────────────────╮ -->
-<!--                         HEADER                                 -->
-<!-- ╰──────────────────────────────────────────────────────────────╯ -->
+<!-- ====================================================== -->
+<!--                         HEADER                         -->
+<!-- ====================================================== -->
 
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rounded&height=230&color=0:0D1117,45:172554,100:2563EB&text=Edmarc%20Justin%20C.%20Oabel&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=BS%20Computer%20Engineering%20%7C%20Embedded%20Systems&descAlignY=61&descSize=17&stroke=58A6FF&strokeWidth=1&animation=fadeIn"
     width="92%"
+    alt="Edmarc Justin C. Oabel"
   />
 </p>
 
@@ -17,128 +18,171 @@
 </p>
 
 <p align="center">
-  🎓 <b>Mapúa University</b> · 2024–Present
+  🎓 <strong>Mapúa University</strong> · 2024–Present
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="38" />
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="40"
+      height="40"
+      alt="LinkedIn"
+    />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:oabel.edmarc@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="38" />
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      width="40"
+      height="40"
+      alt="Email"
+    />
   </a>
 </p>
 
 <br>
 
-<!-- ABOUT -->
+<!-- ====================================================== -->
+<!--                       ABOUT ME                         -->
+<!-- ====================================================== -->
 
-## 👋 About Me
+<h2>👋 About Me</h2>
 
-I'm **Edmarc Justin C. Oabel**, a **BS Computer Engineering student at Mapúa University**, currently pursuing my degree from **2024–Present**, with a specialization in **Embedded Systems**.
+<p>
+I'm <strong>Edmarc Justin C. Oabel</strong>, a
+<strong>BS Computer Engineering student at Mapúa University</strong>,
+currently pursuing my degree from <strong>2024–Present</strong>,
+with a specialization in <strong>Embedded Systems</strong>.
+</p>
 
-I'm interested in the intersection of **hardware and software**, particularly in microcontrollers, electronics, embedded programming, automation, and connected systems.
+<p>
+I'm interested in the intersection of <strong>hardware and software</strong>,
+particularly in microcontrollers, electronics, embedded programming,
+automation, and connected systems.
+</p>
 
-I enjoy learning through hands-on experimentation and building systems where software interacts with the physical world.
-
-<br>
-
-<!-- EDUCATION -->
-
-## 🎓 Education
-
-<p align="center">
-
-### Mapúa University
-
-**BS Computer Engineering**  
-2024 – Present
-
-`Specialization: Embedded Systems`
-
+<p>
+I enjoy learning through hands-on experimentation and building systems
+where software interacts with the physical world.
 </p>
 
 <br>
 
-<!-- EMBEDDED -->
+<!-- ====================================================== -->
+<!--                       EDUCATION                        -->
+<!-- ====================================================== -->
 
-## 🔌 Embedded Systems
+<h2>🎓 Education</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,arduino&perline=6" />
+  <strong>Mapúa University</strong>
+  <br>
+  BS Computer Engineering
+  <br>
+  2024 – Present
+  <br>
+  <br>
+  <em>Specialization: Embedded Systems</em>
+</p>
+
+<br>
+
+<!-- ====================================================== -->
+<!--                  EMBEDDED SYSTEMS                     -->
+<!-- ====================================================== -->
+
+<h2>🔌 Embedded Systems</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=cpp,arduino"
+    alt="C++ and Arduino"
+  />
 </p>
 
 <p align="center">
-  <b>ESP32</b>
+  <strong>ESP32</strong>
   &nbsp; · &nbsp;
-  <b>ESP-IDF</b>
+  <strong>ESP-IDF</strong>
   &nbsp; · &nbsp;
-  <b>FreeRTOS</b>
+  <strong>FreeRTOS</strong>
   &nbsp; · &nbsp;
-  <b>Arduino</b>
+  <strong>Arduino</strong>
   &nbsp; · &nbsp;
-  <b>C++</b>
+  <strong>C++</strong>
 </p>
 
 <p align="center">
-  <i>
+  <em>
     Developing and debugging embedded systems, working with microcontrollers,
     real-time tasks, electronics, and hardware-software integration.
-  </i>
+  </em>
 </p>
 
 <br>
 
-<!-- SOFTWARE -->
+<!-- ====================================================== -->
+<!--                    SOFTWARE & WEB                     -->
+<!-- ====================================================== -->
 
-## 💻 Software & Web
+<h2>💻 Software & Web</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind&perline=6" />
+  <img
+    src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind"
+    alt="Programming and Web Technologies"
+  />
 </p>
 
 <p align="center">
-  <b>Python</b>
+  <strong>Python</strong>
   &nbsp; · &nbsp;
-  <b>JavaScript</b>
+  <strong>JavaScript</strong>
   &nbsp; · &nbsp;
-  <b>TypeScript</b>
+  <strong>TypeScript</strong>
   &nbsp; · &nbsp;
-  <b>React</b>
+  <strong>React</strong>
   &nbsp; · &nbsp;
-  <b>Next.js</b>
+  <strong>Next.js</strong>
   &nbsp; · &nbsp;
-  <b>Tailwind CSS</b>
-</p>
-
-<br>
-
-<!-- TOOLS -->
-
-## 🧰 Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" />
-</p>
-
-<p align="center">
-  <b>Git</b>
-  &nbsp; · &nbsp;
-  <b>GitHub</b>
-  &nbsp; · &nbsp;
-  <b>VS Code</b>
-  &nbsp; · &nbsp;
-  <b>Arduino IDE</b>
-  &nbsp; · &nbsp;
-  <b>Espressif IDE</b>
+  <strong>Tailwind CSS</strong>
 </p>
 
 <br>
 
-<!-- INTERESTS -->
+<!-- ====================================================== -->
+<!--                  DEVELOPMENT TOOLS                    -->
+<!-- ====================================================== -->
 
-## ⚙️ Areas of Interest
+<h2>🧰 Development Tools</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode"
+    alt="Development Tools"
+  />
+</p>
+
+<p align="center">
+  <strong>Git</strong>
+  &nbsp; · &nbsp;
+  <strong>GitHub</strong>
+  &nbsp; · &nbsp;
+  <strong>VS Code</strong>
+  &nbsp; · &nbsp;
+  <strong>Arduino IDE</strong>
+  &nbsp; · &nbsp;
+  <strong>Espressif IDE</strong>
+</p>
+
+<br>
+
+<!-- ====================================================== -->
+<!--                   AREAS OF INTEREST                   -->
+<!-- ====================================================== -->
+
+<h2>⚙️ Areas of Interest</h2>
 
 <p align="center">
   🔌 Embedded Systems
@@ -158,9 +202,11 @@ I enjoy learning through hands-on experimentation and building systems where sof
 
 <br>
 
-<!-- LEARNING -->
+<!-- ====================================================== -->
+<!--                  CURRENTLY LEARNING                   -->
+<!-- ====================================================== -->
 
-## 📚 Currently Learning
+<h2>📚 Currently Learning</h2>
 
 <p align="center">
   <img
@@ -170,74 +216,95 @@ I enjoy learning through hands-on experimentation and building systems where sof
 </p>
 
 <p align="center">
-  <i>
+  <em>
     Continuously improving my knowledge through experimentation,
     projects, and hands-on development.
-  </i>
+  </em>
 </p>
 
 <br>
 
-<!-- APPROACH -->
+<!-- ====================================================== -->
+<!--                      MY APPROACH                      -->
+<!-- ====================================================== -->
 
-## 🚀 My Approach
+<h2>🚀 My Approach</h2>
 
 <p align="center">
-  <b>Learn</b>
+  <strong>Learn</strong>
   &nbsp; → &nbsp;
-  <b>Build</b>
+  <strong>Build</strong>
   &nbsp; → &nbsp;
-  <b>Break</b>
+  <strong>Break</strong>
   &nbsp; → &nbsp;
-  <b>Understand</b>
+  <strong>Understand</strong>
   &nbsp; → &nbsp;
-  <b>Improve</b>
+  <strong>Improve</strong>
 </p>
 
 <p align="center">
-  <i>
+  <em>
     I learn best by building things, experimenting, making mistakes,
-    and understanding how to solve the problems along the way.
-  </i>
+    and understanding how to solve problems along the way.
+  </em>
 </p>
 
 <br>
 
-<!-- CONNECT -->
+<!-- ====================================================== -->
+<!--                    CONNECT WITH ME                    -->
+<!-- ====================================================== -->
 
-## 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
+        <img
+          src="https://skillicons.dev/icons?i=linkedin"
+          width="50"
+          height="50"
+          alt="LinkedIn"
+        />
+        <br>
+        <sub><strong>LinkedIn</strong></sub>
+      </a>
+    </td>
+
+    <td align="center" width="150">
+      <a href="mailto:oabel.edmarc@gmail.com">
+        <img
+          src="https://skillicons.dev/icons?i=gmail"
+          width="50"
+          height="50"
+          alt="Email"
+        />
+        <br>
+        <sub><strong>Email</strong></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:oabel.edmarc@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50" />
-</a>
-
-</p>
-
-<p align="center">
-  <sub>
-    📧 oabel.edmarc@gmail.com
-  </sub>
+  <sub>oabel.edmarc@gmail.com</sub>
 </p>
 
 <br>
 
-<!-- FOOTER -->
+<!-- ====================================================== -->
+<!--                        FOOTER                         -->
+<!-- ====================================================== -->
 
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=0:2563EB,50:172554,100:0D1117&section=footer&animation=fadeIn"
     width="92%"
+    alt="Footer"
   />
 </p>
 
 <p align="center">
-  <i>Building technology one project at a time.</i>
+  <em>Building technology one project at a time.</em>
 </p>
