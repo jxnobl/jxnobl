@@ -267,41 +267,43 @@ where software interacts with the physical world.
 
 <h2>🌐 Connect With Me</h2>
 
-<p align="center">
+<div align="center">
+
   <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
       width="52"
-      height="52"
       alt="LinkedIn"
     />
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:oabel.edmarc@gmail.com">
     <img
       src="https://skillicons.dev/icons?i=gmail"
       width="52"
-      height="52"
       alt="Email"
     />
   </a>
-</p>
 
-<p align="center">
+  <br><br>
+
   <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
-    LinkedIn
+    <strong>LinkedIn</strong>
   </a>
-  &nbsp;&nbsp; • &nbsp;&nbsp;
-  <a href="mailto:oabel.edmarc@gmail.com">
-    Email
-  </a>
-</p>
 
-<p align="center">
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <a href="mailto:oabel.edmarc@gmail.com">
+    <strong>Email</strong>
+  </a>
+
+  <br><br>
+
   <sub>oabel.edmarc@gmail.com</sub>
-</p>
+
+</div>
 
 <br>
 
@@ -311,7 +313,7 @@ where software interacts with the physical world.
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=0:2563EB,50:172554,100:0D1117&section=footer&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:2563EB,50:172554,100:0D1117&section=footer&animation=fadeIn"
     width="92%"
     alt="Footer"
   />
