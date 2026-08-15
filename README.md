@@ -76,16 +76,30 @@ I enjoy turning ideas into working systems and learning through hands-on project
 
 ## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jxnobl/jxnobl/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
----
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jxnobl/jxnobl/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jxnobl/jxnobl/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/jxnobl/jxnobl/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
 
 ## 🎯 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&center=true&vCenter=true&width=600&lines=Embedded+Systems;Microcontroller+Programming;Electronics+%26+Circuit+Design;IoT+Development;Algorithms+%26+Data+Structures;Full-Stack+Web+Development" alt="Currently Learning" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microcontrollers-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Electronics-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IoT-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-58A6FF?style=for-the-badge" />
 </p>
 
 ---
