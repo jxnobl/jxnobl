@@ -267,54 +267,28 @@ where software interacts with the physical world.
 
 <h2>🌐 Connect With Me</h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/"><img src="https://skillicons.dev/icons?i=linkedin" width="52" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:oabel.edmarc@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="52" alt="Email"></a>
+</p>
 
-  <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
-    <img
-      src="https://skillicons.dev/icons?i=linkedin"
-      width="52"
-      alt="LinkedIn"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:oabel.edmarc@gmail.com">
-    <img
-      src="https://skillicons.dev/icons?i=gmail"
-      width="52"
-      alt="Email"
-    />
-  </a>
-
-  <br><br>
-
-  <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">
-    <strong>LinkedIn</strong>
-  </a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/edmarc-justin-oabel-868478367/">LinkedIn</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:oabel.edmarc@gmail.com">Email</a>
+</p>
 
-  <a href="mailto:oabel.edmarc@gmail.com">
-    <strong>Email</strong>
-  </a>
-
-  <br><br>
-
+<p align="center">
   <sub>oabel.edmarc@gmail.com</sub>
-
-</div>
+</p>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                        FOOTER                         -->
-<!-- ====================================================== -->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:2563EB,50:172554,100:0D1117&section=footer&animation=fadeIn"
-    width="92%"
+    src="https://capsule-render.vercel.app/api?type=rounded&height=60&color=0:0D1117,50:172554,100:2563EB&section=footer&animation=fadeIn"
+    width="75%"
     alt="Footer"
   />
 </p>
